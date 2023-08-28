@@ -4,24 +4,24 @@
 <p>Меня зовут Евгений. Здесь я разместил портфолио с информацией о знаниях и навыках тестирования, которые я приобрел на курсах по тестированию ПО.</p> 
 
 ---
-##  [Моё резюме](https://drive.google.com/file/d/1WwBJuoA60AVMC71MrU6ehkoW-dQjSaHc/view?usp=sharing)
+##  [Моё резюме находится здесь](https://drive.google.com/file/d/1WwBJuoA60AVMC71MrU6ehkoW-dQjSaHc/view?usp=sharing)
 ---
 
 ###  Мои работы
 
 - [Чек листы](https://github.com/Baidak-Evgenii/Сheck_list)
-- [Тест кейсы](https://github.com/Baidak-Evgenii/Test_-_cases)
-- [Отчёты об ошибках](https://github.com/Baidak-Evgenii/Bug_reports)
-- [SQL Запросы](https://github.com/Baidak-Evgenii/SQL_queries)
-- [Коллекции API запросов в Postman](https://www.postman.com/supply-geoscientist-41924051/workspace/petstore/collection/25676439-86b8b22c-1e7a-42d7-911d-7099cd44ce29?action=share&creator=25676439)
-- [Тест план и Отчет о проведенном тестировании](https://github.com/Baidak-Evgenii/Test-plans_Reports-of-testing.git)
+- [Тест кейсы](https://github.com/Baidak-Evgenii/Test_case)
+- [Отчёты об ошибках](https://github.com/Baidak-Evgenii/Bug_report)
+- [SQL Запросы](https://github.com/Baidak-Evgenii/SQL_querie)
+- [Коллекции API запросов в Postman](https://www.postman.com/restless-flare-373008/workspace/my-workspace/collection/24530753-c7f3e8a0-3f35-465e-9dc3-2df2349e7865)
+- [Тест план и Отчет о проведенном тестировании](https://github.com/Baidak-Evgenii/Test-plan_-_Report-of-testing)
 - [Команды Bash](https://github.com/Baidak-Evgenii/Practical_Task.-Bash_Commands)
 
 ---
-### Мои контакты: [![LinkedIn Badge](https://img.shields.io/badge/-Timofey%20Kuznetsov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sumlenne@gmail.comm)
+### Мои контакты: [![LinkedIn Badge](https://img.shields.io/badge/-Evgenii%20Baidak-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sumlenne@gmail.comm)
 
 ---
-### Навыки и инструменты
+### Навыки и инструменты освоенные за время обучения
 
 ### Документация по тестированию:
 
