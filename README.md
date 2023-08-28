@@ -9,7 +9,7 @@
 
 ###  Мои работы
 
-- [Чек листы](https://github.com/Baidak-Evgenii/Сheck_list)
+- [Чек листы](https://github.com/Baidak-Evgenii/Check_list)
 - [Тест кейсы](https://github.com/Baidak-Evgenii/Test_case)
 - [Отчёты об ошибках](https://github.com/Baidak-Evgenii/Bug_report)
 - [SQL Запросы](https://github.com/Baidak-Evgenii/SQL_querie)
