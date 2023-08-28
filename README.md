@@ -1,4 +1,4 @@
-![Header](https://github.com/Baidak-Evgenii/Baidak-Evgenii/assets/Logo.png)
+![Header](https://github.com/Baidak-Evgenii/Baidak-Evgenii/blob/master/assets/Logo.png)
 ### Привет!
 <p>Меня зовут Евгений. Здесь я разместил портфолио с информацией о знаниях и навыках тестирования, которые я приобрел на курсах по тестированию ПО.</p> 
 
