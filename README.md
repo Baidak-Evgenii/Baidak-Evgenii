@@ -1,12 +1,13 @@
 ![Header](https://github.com/Baidak-Evgenii/Baidak-Evgenii/blob/master/assets/Logo.png)
 ### Привет!
+
 <p>Меня зовут Евгений. Здесь я разместил портфолио с информацией о знаниях и навыках тестирования, которые я приобрел на курсах по тестированию ПО.</p> 
 
 ---
-##  📄[Моё резюме](https://drive.google.com/file/d/1WwBJuoA60AVMC71MrU6ehkoW-dQjSaHc/view?usp=sharing)
+##  [Моё резюме](https://drive.google.com/file/d/1WwBJuoA60AVMC71MrU6ehkoW-dQjSaHc/view?usp=sharing)
 ---
 
-###  📁 Мои работы
+###  Мои работы
 
 - [Чек листы](https://github.com/Baidak-Evgenii/Сheck_list)
 - [Тест кейсы](https://github.com/Baidak-Evgenii/Test_-_cases)
