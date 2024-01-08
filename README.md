@@ -1,9 +1,9 @@
 ### Привет!
 
-<p>Меня зовут Евгений. Здесь я разместил портфолио с информацией о знаниях и навыках тестирования, которые я приобрел на курсах по тестированию ПО.</p> 
+<p>Меня зовут Евгений. Здесь я разместил портфолио с информацией о знаниях и навыках ручного тестирования, которые я приобрел на курсах и во время прохождения стажировки.</p> 
 
 ---
-##  [Моё резюме находится здесь](https://drive.google.com/file/d/1WwBJuoA60AVMC71MrU6ehkoW-dQjSaHc/view?usp=sharing)
+##  [Моё резюме находится здесь](https://drive.google.com/file/d/1jKV4w6h3IPEDeCQBqk4kwQGM4rmK0JCM/view?usp=drive_link)
 ---
 
 ###  Мои работы
@@ -17,10 +17,10 @@
 - [Команды Bash](https://github.com/Baidak-Evgenii/Practical_Task.-Bash_Commands)
 
 ---
-### Мои контакты: [![LinkedIn Badge](https://img.shields.io/badge/-Evgenii%20Baidak-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sumlenne@gmail.comm)
+### Мои контакты: [![LinkedIn Badge](https://img.shields.io/badge/-Evgenii%20Baidak-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/Evgenii--Baidak/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sumlenne@gmail.com)
 
 ---
-### Навыки и инструменты освоенные за время обучения
+### Навыки и инструменты
 
 ### Документация по тестированию:
 
