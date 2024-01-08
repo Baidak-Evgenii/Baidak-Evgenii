@@ -83,4 +83,4 @@
 ---
 ### 📜Сертификат:
 
-🔗[QA инженер](https://v2.coreapp.ai/certificate/pdf/)
+🔗[QA инженер](https://v2.coreapp.ai/certificate/pdf/64fdba00140da14a5cbd297c)
