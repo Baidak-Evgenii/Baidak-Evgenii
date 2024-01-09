@@ -3,7 +3,7 @@
 <p>Меня зовут Евгений. Здесь я разместил портфолио с информацией о знаниях и навыках ручного тестирования, которые я приобрел на курсах и во время прохождения стажировки.</p> 
 
 ---
-##  [Моё резюме находится здесь](https://drive.google.com/file/d/1jKV4w6h3IPEDeCQBqk4kwQGM4rmK0JCM/view?usp=drive_link)
+##  [Моё резюме находится здесь](https://drive.google.com/file/d/17KQmQV28B0tbS-HQHBtE7rhkXkodoeRe/view?usp=sharing)
 ---
 
 ###  Мои работы
