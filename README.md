@@ -15,7 +15,7 @@
 - [Команды Bash](https://github.com/Baidak-Evgenii/Practical_Task.-Bash_Commands)
 
 ---
-### Мои контакты: [![LinkedIn Badge](https://img.shields.io/badge/-Evgenii%20Baidak-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/Evgenii--Baidak/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sumlenne@gmail.com)
+### Мои контакты: [![LinkedIn Badge](https://img.shields.io/badge/-Evgenii%20Baidak-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/evgenii---baidak/)
 
 ---
 ### Навыки и инструменты
