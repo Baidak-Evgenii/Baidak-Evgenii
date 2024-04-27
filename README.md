@@ -11,7 +11,7 @@
 ###  Мои работы
 
 - [Стажировка на проекте JunovNet](https://github.com/Baidak-Evgenii/JunovNet_Internship)
-- [Выполненные мной тестовые заданий](https://github.com/Baidak-Evgenii/Test_Tasks)=
+- [Выполненные мной тестовые заданий](https://github.com/Baidak-Evgenii/Test_Tasks)
 - [Курс "Функциональное тестирование ПО" by Artsiom Rusau](https://github.com/Baidak-Evgenii/ArtsiomRusau_Course)
 - [Курс "Инженер по тестированию" by Yandex Practicum](https://github.com/Baidak-Evgenii/YandexPracticum_Course)
  
